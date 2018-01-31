@@ -36,7 +36,7 @@ public class ActivityCityListDetails extends AppCompatActivity {
         //открываем соединение
         databaseAccess.open();
 
-        //инициализируем listview
+        //инициализируем listview d
         listView = findViewById(R.id.listview2);
 
         //получаем из предыдущего activity какую позицию выбрали
